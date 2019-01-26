@@ -7,3 +7,6 @@ desenvolvido pela equipe.
 
 * Game Design Document
 * Imagens de template e referências para desenvolvimento de arte
+* Diagramas esquemáticos para ligação dos cenários
+* icones
+* recursos de terceiros
